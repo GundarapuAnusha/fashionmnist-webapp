@@ -9,7 +9,7 @@ This project delivers a complete deep learning web application for classifying c
 - **Interactive Image Upload**: Users can upload grayscale fashion images to classify.
 - **Multiple CNN Models**: Supports basic and deep CNN architectures for comparative analysis.
 - **Real-Time Predictions**: Seamless integration of Flask API with React frontend.
-- **Model Accuracy Display**: Backend trained to achieve >90% accuracy on validation.
+- **Model Accuracy Display**: Backend trained to achieve >80% accuracy on validation.
 - **Clean UI**: A modern and responsive user interface for a smooth experience.
 
 ---
